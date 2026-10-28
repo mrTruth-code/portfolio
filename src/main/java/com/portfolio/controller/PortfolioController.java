@@ -127,7 +127,7 @@ public class PortfolioController {
                 "IT Skills Programme Participant — Labor Activation Programme",
                 "26 Feb 2024 – 26 Feb 2025",
                 "South Africa",
-                "Registered for a 12-month Labor Activation Programme sponsored by the Department of Labour, with Netcampus Group as the implementation partner.",
+                null,
                 "Registered for a 12-month Labor Activation Programme sponsored by the Department of Labour, with Netcampus Group as the implementation partner.",
                 "Participated in a programme structured around technical training, practical exercises, and hands-on IT skills development.",
                 "Programme activities included developing a small application, participating in a three-month project simulation, and work-integrated training.",

@@ -384,7 +384,7 @@
               <span class="exp-loc" th:text="${exp.location}">📍 Remote</span>
             </div>
           </div>
-          <p class="exp-desc" th:text="${exp.description}">Leading backend development...</p>
+          <p class="exp-desc" th:if="${exp.description != null}" th:text="${exp.description}">Leading backend development...</p>
           <ul class="exp-bullets">
             <li class="exp-bullet" th:each="highlight : ${exp.highlights}" th:text="${highlight}">Reduced API response latency...</li>
           </ul>
