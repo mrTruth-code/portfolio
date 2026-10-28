@@ -121,6 +121,17 @@ public class PortfolioController {
                 "Collaborated with a cross-functional team of 5–10 members, including developers, testers, and supervisors.",
                 "Resolved 20–40+ software defects and implemented enhancements based on user feedback.",
                 "Produced and maintained 10–20 technical documents, including test cases, reports, and system documentation."
+            ),
+            new Experience(
+                "Netcampus Group",
+                "IT Skills Programme Participant — Labor Activation Programme",
+                "26 Feb 2024 – 26 Feb 2025",
+                "South Africa",
+                "Registered for a 12-month Labor Activation Programme sponsored by the Department of Labour, with Netcampus Group as the implementation partner.",
+                "Registered for a 12-month Labor Activation Programme sponsored by the Department of Labour, with Netcampus Group as the implementation partner.",
+                "Participated in a programme structured around technical training, practical exercises, and hands-on IT skills development.",
+                "Programme activities included developing a small application, participating in a three-month project simulation, and work-integrated training.",
+                "Gained exposure to workplace-oriented IT skills and practical software development activities."
             )
         );
     }
