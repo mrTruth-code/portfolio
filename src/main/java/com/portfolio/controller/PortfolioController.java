@@ -99,6 +99,17 @@ public class PortfolioController {
     private List<Experience> getExperiences() {
         return List.of(
             new Experience(
+                "Dynamic DNA",
+                "Microsoft AI Cloud Developer Programme Participant",
+                "1 Aug 2026 – 30 Nov 2026",
+                "Randburg, South Africa",
+                null,
+                "Participating in a Microsoft AI Cloud Developer programme focused on cloud computing, Microsoft Azure, and artificial intelligence.",
+                "Developing knowledge of Azure cloud services and AI development concepts through programme-related learning activities.",
+                "Preparing for Microsoft Azure Fundamentals (AZ-900) and AI-200 certification examinations as outlined in the programme.",
+                "Strengthening technical skills in cloud technologies and AI to support future software development opportunities."
+            ),
+            new Experience(
                 "Phosaane Training Institute",
                 "Software Development Facilitator / SME (Freelance)",
                 "Jul 2025 – Jun 2026",
